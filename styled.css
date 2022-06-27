@@ -1,0 +1,17 @@
+h1 {text-align: center;font-size:60px;font-style: oblique;color:red; text-shadow: 3px 3px white}
+img {border-width: 10px;border-style: solid;border-color: black;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+  h2 {text-align: center;font-size: 55px;font-style: oblique;text-decoration: underline; color:#ff0000; text-shadow: 3px 3px black}
+  p {color:#ff0000;font-size: 23px;text-align: center;text-shadow: 1.25px 1.25px black}
+  body {
+    background-color: rgb(219, 222, 223);
+  }
+  body {
+    background-image: url("https://nationbillions.com/wp-content/uploads/2021/05/Blxst-big-cover-final-1-of-1-1920x1080.jpg");
+  }
